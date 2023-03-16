@@ -1,5 +1,3 @@
 # testGithub
 
-
-test second day 
-new commit 
+thursday edit
